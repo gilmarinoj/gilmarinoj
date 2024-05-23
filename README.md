@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **gilmarinoj@gmail.com**
 
-- ⚡ Fun fact **I love the ads of YouTube**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gilmarinoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gilmarinoj" height="30" width="40" /></a>

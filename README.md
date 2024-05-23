@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gilmarinoj@gmail.com**
 
-- ⚡ Fun fact **I think that programming is great!**
+- ⚡ Fun fact **I love the ads of YouTube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/gilmarinoj" target="blank"><img src="https://img.shields.io/twitter/follow/gilmarinoj?logo=twitter&style=for-the-badge" alt="gilmarinoj" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Repository**
+- 🔭 I’m currently working on **Newspaper**
 
-- 🌱 I’m currently learning **NodeJS, Rest and Typescript**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Typescript, NodeJS, PHP**
 

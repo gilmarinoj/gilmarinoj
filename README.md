@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Newspaper**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Nest, Angular**
 
 - 💬 Ask me about **Typescript, NodeJS, PHP**
 

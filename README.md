@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/gilmarinoj" target="blank"><img src="https://img.shields.io/twitter/follow/gilmarinoj?logo=twitter&style=for-the-badge" alt="gilmarinoj" /></a> </p>
 
-- 🔭 I’m currently working on **Aplicacion Web de Conferencias**
+- 🔭 I’m currently working on **NestJS Course from DevTalles**
 
 - 🌱 I’m currently learning **Nest, PHP**
 

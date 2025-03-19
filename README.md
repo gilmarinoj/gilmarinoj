@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/gilmarinoj" target="blank"><img src="https://img.shields.io/twitter/follow/gilmarinoj?logo=twitter&style=for-the-badge" alt="gilmarinoj" /></a> </p>
 
-- 🔭 I’m currently working on **NestJS Course from DevTalles**
+- 🔭 I’m currently working on **Especialización en el Curso de React de DevTalles**
 
-- 🌱 I’m currently learning **Nest, PHP**
+- 🌱 I’m currently learning **Nest, React**
 
-- 💬 Ask me about **JavaScript, TypeScript, NodeJS, PHP, Nest**
+- 💬 Ask me about **JavaScript, TypeScript, NodeJS, Nest**
 
 - 📫 How to reach me **gilmarinoj@gmail.com**
 
